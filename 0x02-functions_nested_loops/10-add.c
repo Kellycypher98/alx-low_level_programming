@@ -15,5 +15,4 @@ int add(int a, int b)
 
 	return (sum);
 }
-Footer
 
